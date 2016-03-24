@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">My Tube</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Welcome</string>
+    <string name="search">Search</string>
+    <string name="favorites">My Favorites</string>
+    <string name="failed">Failed to initialize Youtube Player</string>
+
+</resources>
