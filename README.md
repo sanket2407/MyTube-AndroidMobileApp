@@ -12,5 +12,5 @@ Functionalities:
 
 Learnings:
 
-* Aauth with Google plus and YouTube APIs.
+* Oauth with Google plus and YouTube APIs.
 * Asynchronous process management in API calls.
